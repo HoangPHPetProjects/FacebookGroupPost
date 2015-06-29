@@ -1,7 +1,7 @@
-# SalaryConverter
-Chương trình tính lương, cho phép chuyển đổi từ lương NET sang GROSS và ngược lại. Đẹp và thuận tiện.
+# FacebookGroupPost
+Chương trình cho phép post 1 status vào nhiều group chỉ với 1 nút bấm duy nhất.
+Sau khi đã thêm các group vào danh sách, người dùng có thể lưu sử dụng lại cho lần sau (Lưu trên client).
 
-Bản online: [http://conanak99.github.io/SalaryConverter/](http://conanak99.github.io/SalaryConverter/)
+Bản online: [http://conanak99.github.io/SalaryConverter/](http://conanak99.github.io/FacebookGroupPost/)
 
-
-![Screenshot](https://raw.githubusercontent.com/conanak99/SalaryConverter/master/screenshot.PNG)
+![Screenshot](https://raw.githubusercontent.com/conanak99/FacebookGroupPost/master/screenshot.PNG)
