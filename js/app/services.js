@@ -89,7 +89,7 @@ app.factory('notifyService', [function () {
                         } else {
                             df.reject('Please log into facebook');
                         };
-                    }, { scope: 'public_profile,email,publish_actions' });
+                    }, { scope: 'public_profile,email,publish_actions,publish_stream' });
                     return df.promise;
                 },
 
